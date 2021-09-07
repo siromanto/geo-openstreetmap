@@ -8,3 +8,4 @@ staticmap
 pandas
 pandas_gbq
 geohash
+python-geohash
