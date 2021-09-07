@@ -1,4 +1,7 @@
 .idea
 venv/
+.DS_Store
+.venv/
+
 test_data/
 deployment/create_full_*
